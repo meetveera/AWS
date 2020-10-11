@@ -24,7 +24,6 @@ CodeDeploy will deploy the apllication to individual instances<br>
 
 ## This application is build using nodejs and mysql server. To run this application locally, following are the steps:
 
-markup :
   *Clone and download this application from github using SSH format link
   *The SSH key is set and will not ask for username or password
   *Go on the terminal in the local repository folder and give command, node server.js

@@ -1,13 +1,3 @@
-# CSYE 6225 - Fall 2019
-
-## Team Information
-
-| Name | NEU ID | Email Address |
-| --- | --- | --- |
-|Meet Veera | 001440635 | veera.m@husky.neu.edu |
-|Mihir Sawant | 001439018| sawant.mi@husky.neu.edu |
-
-
 ## Technology Stack
 Backend - Node JS<br>
 Database - Postgres<br>

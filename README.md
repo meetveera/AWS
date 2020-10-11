@@ -30,7 +30,7 @@ CodeDeploy will deploy the apllication to individual instances<br>
 - Clone and download this application from github using SSH format link
 - The SSH key is set and will not ask for username or password
 - Go on the terminal in the local repository folder and give command, node server.js
-- This will run the application on localhost:3000 which carries out REST API Call; POST, PUT, GET and DELETE on the Bill Tracking Application
+- This will run the application on localhost:3000 which carries out REST API Call; POST, PUT, GET and DELETE on the Reciepe Application
 - Deploy commands for web application are :
 - export AWS_PROFILE=prod
 - git checkout -b branch
